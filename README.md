@@ -1,6 +1,5 @@
 # 🧠 Vibecode Editor – AI-Powered Web IDE
 
-![Vibecode Editor Thumbnail](public/vibe-code-editor-thumbnaail.svg)
 
 **Vibecode Editor** is a blazing-fast, AI-integrated web IDE built entirely in the browser using **Next.js App Router**, **WebContainers**, **Monaco Editor**, and **local LLMs via Ollama**. It offers real-time code execution, an AI-powered chat assistant, and support for multiple tech stacks — all wrapped in a stunning developer-first UI.
 
@@ -93,4 +92,61 @@ Visit `http://localhost:3000` in your browser.
 
 ---
 
+## 🎯 Keyboard Shortcuts
 
+* `Ctrl + Space` or `Double Enter`: Trigger AI suggestions
+* `Tab`: Accept AI suggestion
+* `/`: Open Command Palette (if implemented)
+
+---
+
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgements
+
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+* [Ollama](https://ollama.com/) – for offline LLMs
+* [WebContainers](https://webcontainers.io/)
+* [xterm.js](https://xtermjs.org/)
+* [NextAuth.js](https://next-auth.js.org/)
+
+```
+
+
+
+
+## 🎯 Keyboard Shortcuts
+
+* `Ctrl + Space` or `Double Enter`: Trigger AI suggestions
+* `Tab`: Accept AI suggestion
+* `/`: Open Command Palette (if implemented)
+
+---
+
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgements
+
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+* [Ollama](https://ollama.com/) – for offline LLMs
+* [WebContainers](https://webcontainers.io/)
+* [xterm.js](https://xtermjs.org/)
+* [NextAuth.js](https://next-auth.js.org/)
+
+```
